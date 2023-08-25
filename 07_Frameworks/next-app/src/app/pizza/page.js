@@ -1,3 +1,3 @@
 export default function Egal() {
-  return <strong>Hallo Pizza</strong>;
+  return <strong>Modified Pizza</strong>;
 }
